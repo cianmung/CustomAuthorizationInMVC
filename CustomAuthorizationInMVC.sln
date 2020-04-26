@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAuthorizationInMVC", "CustomAuthorizationInMVC\CustomAuthorizationInMVC.csproj", "{79225814-7403-463F-BE68-700A236995AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79225814-7403-463F-BE68-700A236995AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79225814-7403-463F-BE68-700A236995AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79225814-7403-463F-BE68-700A236995AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79225814-7403-463F-BE68-700A236995AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2327EB-4A24-4749-84D0-77F5997D89A0}
+	EndGlobalSection
+EndGlobal
